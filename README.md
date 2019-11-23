@@ -9,5 +9,10 @@ This translates standard HTTP requests into a gRPC request based on annotations 
 
 ![GitHub](https://img.shields.io/github/license/deps-cloud/gateway.svg)
 [![Build Status](https://travis-ci.com/deps-cloud/gateway.svg?branch=master)](https://travis-ci.com/deps-cloud/gateway)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdeps-cloud%2Fgateway.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdeps-cloud%2Fgateway?ref=badge_shield)
 [![](https://images.microbadger.com/badges/image/depscloud/gateway.svg)](https://microbadger.com/images/depscloud/gateway)
 [![](https://images.microbadger.com/badges/version/depscloud/gateway.svg)](https://microbadger.com/images/depscloud/gateway)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdeps-cloud%2Fgateway.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdeps-cloud%2Fgateway?ref=badge_large)
